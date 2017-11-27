@@ -1,1 +1,1 @@
-The poll app is built on Django by following the tutorial (here)[https://docs.djangoproject.com/en/1.11/intro/tutorial01/].
+The poll app is built on Django by following the tutorial [here](https://docs.djangoproject.com/en/1.11/intro/tutorial01/).
